@@ -5,9 +5,9 @@ Portofolio Saya
 
 Perkenalkan nama saya **Mycho Aditya**.
 
-Saya seorang **Mahasiswa Aktif Semester 6** di [Universitas Dian Nuswantoro].
+Saya seorang **Mahasiswa Aktif Semester 7** di [Universitas Dian Nuswantoro].
 
-Saya sedang mengikuti bangkit academy 2022 dengan pengalaman belajar dari dicoding [belajar dasar pemrograman web](https://www.dicoding.com/certificates/4EXGY6MQ9XRL)&[belajar dasar aws cloud](https://www.dicoding.com/certificates/1OP8LJJD1ZQK).
+Saya mengikuti bangkit academy 2022 dengan pengalaman belajar dari dicoding [belajar dasar pemrograman web](https://www.dicoding.com/certificates/4EXGY6MQ9XRL)&[belajar dasar aws cloud](https://www.dicoding.com/certificates/1OP8LJJD1ZQK).
 
 Saya lahir di [Pangkalan Bun, Kotawaringin Barat, Kalimantan Tengah] Tanggal 27 April 2001.
 
